@@ -1,0 +1,46 @@
+
+html,body{
+    margin:0;
+    height:100%;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.line{
+    height: 5px;
+}
+
+.email{
+    text-decoration:underline;
+    color: #1e90ff
+}
+
+.pageTitle {
+    padding:17%;
+    text-align:center;
+    font-size: 130%;
+}
+
+.pageContent{
+    padding:3% 10%;
+    text-align:justify;
+    background: linear-gradient(#2e2e2e , #eeeeee);
+}
+
+.header{
+    max-height:60%;
+    color:#eeeeee;
+    background-size: 100%;
+    background-image:url(../images/imageTwo.jpg);
+}
+
+footer {
+    position:sticky;
+    background-color: #18185c;
+    color: #eeeeee;
+    height: 8%;
+    width: 95%;
+    bottom: 0%;
+    border-top: 5px solid #ff0000;
+    padding: 0px 0px 0px 5%;
+    margin-left: 0%;
+}
