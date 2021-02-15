@@ -1,0 +1,50 @@
+
+html,body{
+    margin:0;
+    height:100%;
+    font-family: 'Josefin Sans', sans-serif;
+    background: linear-gradient(#2e2e2e , #eeeeee);
+    /*background: linear-gradient(#eeeeee , #2e2e2e);*/
+}
+
+.line{
+    height: 5px;
+}
+
+.email{
+    text-decoration:underline;
+    color: #4fa8ff
+}
+
+.pageTitle {
+    padding:17%;
+    text-align:center;
+    font-size: 130%;
+}
+
+.pageContent{
+    padding:3% 10%;
+    text-align:justify;
+    
+}
+
+.header{
+    max-height:60%;
+    color:#eeeeee;
+    text-shadow: 2px 2px #000000;
+    background-size: 100%;
+    background-image:url(../images/imageTwo.jpg);
+    background-repeat: no-repeat;
+}
+
+footer {
+    text-align: center;
+    position:absolute;
+    background-color: #18185c;
+    color: #eeeeee;
+    height: 5%;
+    width: 100%;
+    bottom: 0%;
+    border-top: 5px solid #1e5bff;
+    margin-left: 0%;
+}
