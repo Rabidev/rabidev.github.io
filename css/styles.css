@@ -39,7 +39,7 @@ html,body{
 
 footer {
     text-align: center;
-    position:relative;
+    position:fixed;
     background-color: #18185c;
     color: #eeeeee;
     height: 5%;
